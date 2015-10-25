@@ -71,16 +71,6 @@
     "correct"  : 2
   },
   {
-    "question" : "What are our hours of operation Sunday through Thursday?",
-    "answers"  : [
-      {"id"  : 0, "text" : "11am - 12am"},
-      {"id"  : 1, "text" : "11am - 2am"},
-      {"id"  : 2, "text" : "11am - 1pm"},
-      {"id"  : 3, "text" : "11am - 11pm"}
-    ],
-    "correct"  : 0
-  },
-  {
     "question" : "Which one of these vodkas is made local?",
     "answers"  : [
       {"id"  : 0, "text" : "Svedka"},
@@ -111,16 +101,6 @@
     "correct"  : 3
   },
   {
-    "question" : "Which image closest relates to a Porter Beer?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/beer1.jpg" },
-      {"id"  : 1, "image" : "images/beer2.jpg" },
-      {"id"  : 2, "image" : "images/beer3.jpg" },
-      {"id"  : 3, "image" : "images/beer4.jpg" }
-    ],
-    "correct"  : 1
-  },
-  {
     "question" : "What are our Happy Hour times?",
     "answers"  : [
       {"id"  : 0, "text" : "5pm - 6pm"},
@@ -138,7 +118,7 @@
       {"id"  : 2, "image" : "images/cherry.jpg" },
       {"id"  : 3, "image" : "images/orange.jpg" }
     ],
-    "correct"  : 3
+    "correct"  : 2
   }
 
   ]
