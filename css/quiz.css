@@ -131,7 +131,8 @@ body { background-color: #000000; padding: 20px; }
 #myQuiz .intro.inactive, #myQuiz.inactive.answered { left: -635px; }
 
 /* Reload Page Button */
-#reload { margin: 40px 0 0 0; border: none; font-size: 1em }
+#reload, #reload2 { margin: 40px 0 0 0; border: none; font-size: 1em }
+#reload2 { margin-left: 40px; }
 
 /* test */
 /*#myQuiz { height: 1000px; }
