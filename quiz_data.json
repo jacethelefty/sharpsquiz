@@ -11,7 +11,7 @@
     "correct"  : 2
   },
   {
-    "question" : "Which image closest relates to a Hefewiezen Beer?",
+    "question" : "Which image closest relates to a Hefeweizen Beer?",
     "answers"  : [
       {"id"  : 0, "image" : "images/beer1.jpg" },
       {"id"  : 1, "image" : "images/beer2.jpg" },
@@ -31,7 +31,7 @@
     "correct"  : 2
   },
   {
-    "question" : "What is the correct garnish for a Mayahual Margarita as a Martini?",
+    "question" : "What is the correct garnish for a Mayahuel Margarita as a Martini?",
     "answers"  : [
       {"id"  : 0, "image" : "images/lemon.jpg" },
       {"id"  : 1, "image" : "images/lime.jpg" },
@@ -48,7 +48,7 @@
       {"id"  : 1, "text" : "False"}
     ],
     "correct"  : 1,
-    "feedback" : "Our Martini's are served with three colossul olives."
+    "feedback" : "Our house Martini's are served with three colossal olives."
   },
     {
     "question" : "We usually cut two size portions of Turkey and Pork. Which one of these portions does NOT belong?",
@@ -60,7 +60,7 @@
     "correct"  : 0
   },
   {
-    "question" : "What is the garnish for a Skinny Bitch Cosmo?",
+    "question" : "What is the correct garnish for a Skinny Bitch Cosmo?",
     "answers"  : [
       {"id"  : 0, "image" : "images/onion.jpg" },
       {"id"  : 1, "image" : "images/lemon.jpg" },
@@ -69,6 +69,16 @@
       {"id"  : 4, "image" : "images/orange.jpg" }
     ],
     "correct"  : 2
+  },
+  {
+    "question" : "What are our hours of operation Sunday through Thursday?",
+    "answers"  : [
+      {"id"  : 0, "text" : "11am - 12am"},
+      {"id"  : 1, "text" : "11am - 2am"},
+      {"id"  : 2, "text" : "11am - 1pm"},
+      {"id"  : 3, "text" : "11am - 11pm"}
+    ],
+    "correct"  : 0
   },
   {
     "question" : "Which one of these vodkas is made local?",
@@ -82,16 +92,16 @@
     "correct"  : 2
   },
   {
-    "question" : "Our house Manhattens's are served with three brandied cherries?",
+    "question" : "Our house Manhattans's are served with three brandied cherries?",
     "answers"  : [
       {"id"  : 0, "text" : "True"},
       {"id"  : 1, "text" : "False"}
     ],
     "correct"  : 0,
-    "feedback" : "Our house Manhattens are served with three brandied cherries."
+    "feedback" : "Our house Manhattans are served with three brandied cherries."
   },
     {
-    "question" : "What is the garnish for the Hoegaarden beer?",
+    "question" : "What is the correct garnish for the Hoegaarden beer?",
     "answers"  : [
       {"id"  : 0, "image" : "images/lemon.jpg" },
       {"id"  : 1, "image" : "images/lime.jpg" },
@@ -101,24 +111,14 @@
     "correct"  : 3
   },
   {
-    "question" : "What are our Happy Hour times?",
+    "question" : "Which image closest relates to a Porter Beer?",
     "answers"  : [
-      {"id"  : 0, "text" : "5pm - 6pm"},
-      {"id"  : 1, "text" : "4pm - 6pm and 10pm - 12am"},
-      {"id"  : 2, "text" : "10pm - 12am"},
-      {"id"  : 3, "text" : "5pm - 6pm and 10pm - 11pm"}
+      {"id"  : 0, "image" : "images/beer1.jpg" },
+      {"id"  : 1, "image" : "images/beer2.jpg" },
+      {"id"  : 2, "image" : "images/beer3.jpg" },
+      {"id"  : 3, "image" : "images/beer4.jpg" }
     ],
     "correct"  : 1
-  },
-  {
-    "question" : "What is the garnish for the International Martini?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/lime.jpg" },
-      {"id"  : 2, "image" : "images/cherry.jpg" },
-      {"id"  : 3, "image" : "images/orange.jpg" }
-    ],
-    "correct"  : 2
   }
 
   ]
