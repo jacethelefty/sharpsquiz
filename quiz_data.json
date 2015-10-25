@@ -119,6 +119,26 @@
       {"id"  : 3, "image" : "images/beer4.jpg" }
     ],
     "correct"  : 1
+  },
+  {
+    "question" : "What are our Happy Hour times?",
+    "answers"  : [
+      {"id"  : 0, "text" : "5pm - 6pm"},
+      {"id"  : 1, "text" : "4pm - 6pm and 10pm - 12am"},
+      {"id"  : 2, "text" : "10pm - 12am"},
+      {"id"  : 3, "text" : "5pm - 6pm and 10pm - 11pm"}
+    ],
+    "correct"  : 1
+  },
+  {
+    "question" : "What is the garnish for the International Martini?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/lime.jpg" },
+      {"id"  : 2, "image" : "images/cherry.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 3
   }
 
   ]
