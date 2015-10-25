@@ -62,11 +62,10 @@
   {
     "question" : "What is the correct garnish for a Skinny Bitch Cosmo?",
     "answers"  : [
-      {"id"  : 0, "image" : "images/onion.jpg" },
-      {"id"  : 1, "image" : "images/lemon.jpg" },
-      {"id"  : 2, "image" : "images/lime.jpg" },
-      {"id"  : 3, "image" : "images/cherry.jpg" },
-      {"id"  : 4, "image" : "images/orange.jpg" }
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/lime.jpg" },
+      {"id"  : 2, "image" : "images/cherry.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
     ],
     "correct"  : 2
   },
