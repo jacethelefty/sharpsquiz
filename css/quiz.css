@@ -172,7 +172,7 @@ body { background-color: #000000; padding: 20px; }
 
 @media screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
    #myQuiz { background: url(../images/backgroundMobile.jpg) no-repeat #000;
-            width: 740px; height:850px; background-size: 740px auto; background-position: bottom;
+            width: 740px; height:1040px; background-size: 740px auto; background-position: bottom;
             }
 }
 
