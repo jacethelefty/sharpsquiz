@@ -159,7 +159,7 @@ body { background-color: #fff; padding: 20px; }
   #myQuiz .question .ans { font-size: 1em; padding: 5px 10px; margin-bottom: 10px; }
   #myQuiz .question .ans.image { min-height: 45px; background-size: auto 45px; background-color: #fff;
                                  background-position: 20px 0px; display: block; margin: 10px 0 10px 10px;}
-  #myQuiz .question .ans.image:hover { background-color: #fff; border-color: #BE4B16;}
+  #myQuiz .question .ans.image:hover { background-color: #fff; border: 2px solid #000;}
 
   #myQuiz .results { width: 260px; top: 220px; left: 330px; }
   #myQuiz .results .share { margin-top: 20px; }
