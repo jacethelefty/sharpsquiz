@@ -74,11 +74,11 @@ body { background-color: #000000; padding: 20px; }
 }
 
 /* Intro */
-#myQuiz .intro{ position: absolute; top: 285px; left: 660px; width: 550px; }
+#myQuiz .intro{ position: absolute; top: 285px; left: 960px; width: 550px; }
 #myQuiz .intro p{ margin-bottom: 40px; }
 
 /* Questions */
-#myQuiz .question{ position: absolute; top: 285px; left: 660px; width: 550px; }
+#myQuiz .question{ position: absolute; top: 285px; left: 960px; width: 550px; }
 #myQuiz .question .txt{ font-size: 1.6em; margin: 0px 0px 20px 0px; }
 #myQuiz .question .ans{
   display: inline-block; font-size: 1.1em; width: 225px; border: 2px solid rgba(238, 189, 102, .4);
@@ -116,7 +116,7 @@ body { background-color: #000000; padding: 20px; }
 
 /* Results */
 
-#myQuiz .results { position: absolute; top: 285px; left: 660px; width: 550px;}
+#myQuiz .results { position: absolute; top: 285px; left: 960px; width: 550px;}
 
 #myQuiz .results .share{ margin-top: 40px;}
 #myQuiz .results .share a.btn{ margin-right: 20px; padding: 9px 15px 8px 42px;
