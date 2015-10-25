@@ -67,7 +67,7 @@
       {"id"  : 2, "image" : "images/cherry.jpg" },
       {"id"  : 3, "image" : "images/orange.jpg" }
     ],
-    "correct"  : 2
+    "correct"  : 1
   },
   {
     "question" : "What are our hours of operation Sunday through Thursday?",
