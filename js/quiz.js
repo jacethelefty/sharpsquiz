@@ -48,7 +48,7 @@
       $scope.createShareLinks = function(percentage) {
         var url = 'http://codifying.com';
 
-        var emailLink = '<a class="btn email" href="mailto:jimdingman@sharpsroasters.com?subject=My scrore passed!&amp;body=I scored a '+percentage+'% on this quiz about beers. Try to beat my score at '+url+'">Email Your Manager</a>';
+        var emailLink = '<a class="btn email" href="mailto:jimdingman@sharpsroasters.com?subject=*ONLY SCORES OF 90% OR HIGHER ACCEPTED*!&amp;body=I scored a '+percentage+'% on this quiz. *ONLY SCORES OF 90% OR HIGHER ACCEPTED*">Email Your Manager</a>';
 
         var newMarkup = emailLink;
 
