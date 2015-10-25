@@ -174,9 +174,9 @@ body { background-color: #000000; padding: 20px; }
    #myQuiz { background: url(../images/background.jpg) no-repeat #000;
             width: 770px; height:900px; background-size: 770px auto; background-position: bottom;
             }
-   #myQuiz .intro{ top: 285px; }
-   #myQuiz .question { top: 285px; }
-   #myQuiz .results { top: 285px; }
+   #myQuiz .intro{ top: 315px; }
+   #myQuiz .question { top: 315px; }
+   #myQuiz .results { top: 315px; }
 
 }
 
