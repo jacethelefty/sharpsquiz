@@ -25,7 +25,7 @@
     "answers"  : [
       {"id"  : 0, "text" : "11am - 12am"},
       {"id"  : 1, "text" : "11am - 2am"},
-      {"id"  : 2, "text" : "11am - 1pm"},
+      {"id"  : 2, "text" : "11am - 1am"},
       {"id"  : 3, "text" : "11am - 11pm"}
     ],
     "correct"  : 2
@@ -42,13 +42,13 @@
     "feedback" : "Although a Margarita is typically served with a lime, this drink is served with an Orange."
   },
   {
-    "question" : "Our house Martini's are served with two olives?",
+    "question" : "Our house Martinis are served with two olives?",
     "answers"  : [
       {"id"  : 0, "text" : "True"},
       {"id"  : 1, "text" : "False"}
     ],
     "correct"  : 1,
-    "feedback" : "Our house Martini's are served with three colossal olives."
+    "feedback" : "Our house Martinis are served with three colossal olives."
   },
     {
     "question" : "We usually cut two size portions of Turkey and Pork. Which one of these portions does NOT belong?",
@@ -91,7 +91,7 @@
     "correct"  : 2
   },
   {
-    "question" : "Our house Manhattans's are served with three brandied cherries?",
+    "question" : "Our house Manhattans are served with three brandied cherries?",
     "answers"  : [
       {"id"  : 0, "text" : "True"},
       {"id"  : 1, "text" : "False"}
