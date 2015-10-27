@@ -156,16 +156,16 @@ body { background-color: #000000; padding: 20px; }
   #myQuiz .progress div::after { top: -10px; left: -5px; width: 53px; height: 33px;
     width: 35px; height: 25px; background-size: 35px 25px; }
 
-  #myQuiz .intro { width: 300px; top: 225px; left: 330px; }
+  #myQuiz .intro { width: 300px; top: 245px; left: 330px; }
 
-  #myQuiz .question { width: 300px; top: 225px; left: 330px; }
+  #myQuiz .question { width: 300px; top: 245px; left: 330px; }
   #myQuiz .question .txt { font-size: 1.4em; margin-bottom: 15px; width: 90%; }
   #myQuiz .question .ans { font-size: 1em; padding: 5px 10px; margin-bottom: 10px; }
   #myQuiz .question .ans.image { min-height: 45px; background-size: auto 45px; background-color: #fff;
                                  background-position: 20px 0px; display: block; margin: 10px 0 10px 10px;}
   #myQuiz .question .ans.image:hover { background-color: #fff; border-color: #000;}
 
-  #myQuiz .results { width: 260px; top: 220px; left: 330px; }
+  #myQuiz .results { width: 260px; top: 240px; left: 330px; }
   #myQuiz .results .share { margin-top: 20px; }
   #myQuiz .results a.btn { margin-bottom: 20px; }
 
