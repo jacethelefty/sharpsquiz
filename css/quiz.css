@@ -33,7 +33,7 @@ body { background-color: #000000; padding: 20px; }
 
 #myQuiz {
    font-family: 'Roboto', sans-serif; font-size: 16px; font-weight: 400;
-   width: 650px; height: 700px;
+   width: 650px; height: 720px;
    position: relative;
    overflow: hidden;
    color: #fff;
@@ -54,7 +54,7 @@ body { background-color: #000000; padding: 20px; }
 }
 
 /* Progress Bar */
-#myQuiz .progress { width: 500px; position: absolute; top: 175px; left: 40px;}
+#myQuiz .progress { width: 540px; position: absolute; top: 175px; left: 40px;}
 #myQuiz .progress div {
   position: relative; display: inline-block; width: 35px; height: 35px; margin: 0 30px 20px 0;
   border-radius: 50%; background-color: rgba(255, 255, 255, .2); transition: background-color 1s;
@@ -74,11 +74,11 @@ body { background-color: #000000; padding: 20px; }
 }
 
 /* Intro */
-#myQuiz .intro{ position: absolute; top: 285px; left: 1150px; width: 550px; }
+#myQuiz .intro{ position: absolute; top: 290px; left: 1150px; width: 550px; }
 #myQuiz .intro p{ margin-bottom: 40px; }
 
 /* Questions */
-#myQuiz .question{ position: absolute; top: 285px; left: 1150px; width: 550px; }
+#myQuiz .question{ position: absolute; top: 290px; left: 1150px; width: 550px; }
 #myQuiz .question .txt{ font-size: 1.6em; margin: 0px 0px 20px 0px; }
 #myQuiz .question .ans{
   display: inline-block; font-size: 1.1em; width: 225px; border: 2px solid rgba(238, 189, 102, .4);
@@ -116,7 +116,7 @@ body { background-color: #000000; padding: 20px; }
 
 /* Results */
 
-#myQuiz .results { position: absolute; top: 285px; left: 1150px; width: 550px;}
+#myQuiz .results { position: absolute; top: 290px; left: 1150px; width: 550px;}
 
 #myQuiz .results .share{ margin-top: 40px;}
 #myQuiz .results .share a.btn{ margin-right: 20px; padding: 9px 15px 8px 42px;
@@ -144,7 +144,7 @@ body { background-color: #000000; padding: 20px; }
 @media screen and (max-width:650px) {
   body { padding: 0px 4px 0px 0px; margin: 0px; }
   #myQuiz { background: url(../images/backgroundMobile.jpg) no-repeat #000;
-            width: 320px; height:770px; background-size: 320px auto; background-position: bottom;
+            width: 320px; height:790px; background-size: 320px auto; background-position: bottom;
             }
   #myQuiz h1 { width: 300px; font-size: 1.3em; top:25px; left: 25px; }
   #myQuiz h1 span { line-height: 43px; }
@@ -176,7 +176,7 @@ body { background-color: #000000; padding: 20px; }
 
 @media screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
    #myQuiz { background: url(../images/background.jpg) no-repeat #000;
-            width: 770px; height:900px; background-size: 770px auto; background-position: bottom;
+            width: 770px; height:910px; background-size: 770px auto; background-position: bottom;
             }
    #myQuiz .intro{ top: 315px; }
    #myQuiz .question { top: 315px; }

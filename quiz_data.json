@@ -85,6 +85,17 @@
     "feedback" : "The Martinez is served with 3 brandied cherries."
   },
   {
+    "question" : "What is the correct garnish for the Rosemary Lemonade?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/apple.jpg" },
+      {"id"  : 2, "image" : "images/roesmary.jpg" },
+      {"id"  : 3, "image" : "images/lime.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "The Rosemary Lemonade is served with a Rosemary Sprig."
+  },
+  {
     "question" : "All Rattle and Shake drinks are served with a paper covered straw?",
     "answers"  : [
       {"id"  : 0, "text" : "True"},
@@ -142,6 +153,17 @@
       {"id"  : 3, "image" : "images/cherry.jpg" }
     ],
     "correct"  : 2
+  },
+  {
+    "question" : "What is the correct garnish for the Spiced Apple Smash?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/rosemary.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/apple.jpg" },
+      {"id"  : 3, "image" : "images/fig.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "The Spiced Apple Smash is served with 2 apple slices."
   }
 
   ]
