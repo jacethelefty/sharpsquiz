@@ -1,15 +1,5 @@
   [
   {
-    "question" : "What is the incorrect garnish for a Black Fig Old Fashion?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/fig.jpg" },
-      {"id"  : 1, "image" : "images/cherry.jpg" },
-      {"id"  : 2, "image" : "images/orange.jpg" }
-    ],
-    "correct"  : 2,
-    "feedback" : "Our Black Fig Old Fashions are garnished with two cherries and one fig."
-  },
-  {
     "question" : "What is the incorrect garnish for a Peach Sangria Verano?",
     "answers"  : [
       {"id"  : 0, "image" : "images/fig.jpg" },
@@ -18,6 +8,16 @@
     ],
     "correct"  : 0,
     "feedback" : "The Peach Sangria Veranos are garnished with one cherry and one orange slice."
+  },
+  {
+    "question" : "What is the correct garnish for a Pomegranate Mayahuel Margarita?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 2
   },
   {
     "question" : "Our house Bloody Marys are served with how many garnishes?",
@@ -51,6 +51,16 @@
       {"id"  : 3, "image" : "images/lemon.jpg" }
     ],
     "correct"  : 0
+  },
+  {
+    "question" : "What is the incorrect garnish for a Black Fig Old Fashion?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/fig.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "Our Black Fig Old Fashions are garnished with two cherries and one fig."
   },
   {
     "question" : "What is the correct garnish for the Martinez?",
@@ -102,7 +112,7 @@
       {"id"  : 2, "image" : "images/lime.jpg" },
       {"id"  : 3, "image" : "images/lemon.jpg" }
     ],
-    "correct"  : 2,
+    "correct"  : 0,
     "feedback" : "The Mayahuel Shot is served with a slice of a Fresno pepper."
   },
   {
@@ -136,139 +146,5 @@
     ],
     "correct"  : 0
   }
-
-
-/*
-  {
-    "question" : "We pour four beer sizes. Which one of these sizes does NOT belong?",
-    "answers"  : [
-      {"id"  : 0, "text" : "34oz"},
-      {"id"  : 1, "text" : "14oz"},
-      {"id"  : 2, "text" : "16oz"},
-      {"id"  : 3, "text" : "8oz"},
-      {"id"  : 4, "text" : "22oz"}
-    ],
-    "correct"  : 2
-  },
- {
-    "question" : "We pour four beer sizes. Which one of these sizes does NOT belong?",
-    "answers"  : [
-      {"id"  : 0, "text" : "34oz"},
-      {"id"  : 1, "text" : "14oz"},
-      {"id"  : 2, "text" : "16oz"},
-      {"id"  : 3, "text" : "8oz"},
-      {"id"  : 4, "text" : "22oz"}
-    ],
-    "correct"  : 2
-  },
-  {
-    "question" : "Which image closest relates to a Hefeweizen Beer?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/beer1.jpg" },
-      {"id"  : 1, "image" : "images/beer2.jpg" },
-      {"id"  : 2, "image" : "images/beer3.jpg" },
-      {"id"  : 3, "image" : "images/beer4.jpg" }
-    ],
-    "correct"  : 0
-  },
-  {
-    "question" : "What are our hours of operation on Friday and Saturday?",
-    "answers"  : [
-      {"id"  : 0, "text" : "11am - 12am"},
-      {"id"  : 1, "text" : "11am - 2am"},
-      {"id"  : 2, "text" : "11am - 1am"},
-      {"id"  : 3, "text" : "11am - 11pm"}
-    ],
-    "correct"  : 2
-  },
-  {
-    "question" : "What is the correct garnish for a Mayahuel Margarita as a Martini?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/lime.jpg" },
-      {"id"  : 2, "image" : "images/onion.jpg" },
-      {"id"  : 3, "image" : "images/orange.jpg" }
-    ],
-    "correct"  : 3,
-    "feedback" : "Although a Margarita is typically served with a lime, this drink is served with an Orange."
-  },
-  {
-    "question" : "Our house Martinis are served with two olives?",
-    "answers"  : [
-      {"id"  : 0, "text" : "True"},
-      {"id"  : 1, "text" : "False"}
-    ],
-    "correct"  : 1,
-    "feedback" : "Our house Martinis are served with three colossal olives."
-  },
-    {
-    "question" : "We usually cut two size portions of Turkey and Pork. Which one of these portions does NOT belong?",
-    "answers"  : [
-      {"id"  : 0, "text" : "12oz"},
-      {"id"  : 1, "text" : "5oz"},
-      {"id"  : 2, "text" : "8oz"}
-    ],
-    "correct"  : 0
-  },
-  {
-    "question" : "What is the correct garnish for a Skinny Bitch Cosmo?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/lime.jpg" },
-      {"id"  : 2, "image" : "images/cherry.jpg" },
-      {"id"  : 3, "image" : "images/orange.jpg" }
-    ],
-    "correct"  : 1
-  },
-  {
-    "question" : "What are our hours of operation Sunday through Thursday?",
-    "answers"  : [
-      {"id"  : 0, "text" : "11am - 12am"},
-      {"id"  : 1, "text" : "11am - 2am"},
-      {"id"  : 2, "text" : "11am - 1pm"},
-      {"id"  : 3, "text" : "11am - 11pm"}
-    ],
-    "correct"  : 0
-  },
-  {
-    "question" : "Which one of these vodkas is made local?",
-    "answers"  : [
-      {"id"  : 0, "text" : "Svedka"},
-      {"id"  : 1, "text" : "Titos"},
-      {"id"  : 2, "text" : "Ebb+Flo"},
-      {"id"  : 3, "text" : "Absolute"},
-      {"id"  : 4, "text" : "Stoli"}
-    ],
-    "correct"  : 2
-  },
-  {
-    "question" : "Our house Manhattans are served with three brandied cherries?",
-    "answers"  : [
-      {"id"  : 0, "text" : "True"},
-      {"id"  : 1, "text" : "False"}
-    ],
-    "correct"  : 0,
-    "feedback" : "Our house Manhattans are served with three brandied cherries."
-  },
-    {
-    "question" : "What is the correct garnish for the Hoegaarden beer?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/lime.jpg" },
-      {"id"  : 2, "image" : "images/cherry.jpg" },
-      {"id"  : 3, "image" : "images/orange.jpg" }
-    ],
-    "correct"  : 3
-  },
-  {
-    "question" : "Which image closest relates to a Porter Beer?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/beer1.jpg" },
-      {"id"  : 1, "image" : "images/beer2.jpg" },
-      {"id"  : 2, "image" : "images/beer3.jpg" },
-      {"id"  : 3, "image" : "images/beer4.jpg" }
-    ],
-    "correct"  : 1
-  } */
 
   ]
