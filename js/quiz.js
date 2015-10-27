@@ -61,8 +61,8 @@
       $('#reload').click(function() {
           location.reload();
       });
-      // $('#reload2').click(function() {
-      //     location.reload();
-      // });
+      $('#reload2').click(function() {
+          location.reload();
+      });
 
 })();

@@ -132,7 +132,10 @@ body { background-color: #000000; padding: 20px; }
 
 /* Reload Page Button */
 #reload, #reload2 { margin: 40px 0 0 0; border: none; font-size: 1em }
-#reload2 { margin-left: 40px; }
+#reload2 { margin-left: 40px; margin-top: -28px; color: #fff;
+           font-family: 'Roboto', sans-serif; transition: all .5s ease-in;
+           position: absolute; z-index: 100;}
+#reload2:hover { cursor: pointer; color: #087FDF; }
 
 /* test */
 /*#myQuiz { height: 1000px; }

@@ -1,5 +1,156 @@
   [
   {
+    "question" : "What is the incorrect garnish for a Black Fig Old Fashion?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/fig.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "Our Black Fig Old Fashions are garnished with two cherries and one fig."
+  },
+  {
+    "question" : "What is the incorrect garnish for a Peach Sangria Verano?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/fig.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 0,
+    "feedback" : "The Peach Sangria Veranos are garnished with one cherry and one orange slice."
+  },
+  {
+    "question" : "Our house Bloody Marys are served with how many garnishes?",
+    "answers"  : [
+      {"id"  : 0, "text" : "3"},
+      {"id"  : 1, "text" : "6"},
+      {"id"  : 2, "text" : "5"},
+      {"id"  : 3, "text" : "4"},
+      {"id"  : 4, "text" : "2"}
+    ],
+    "correct"  : 1,
+    "feedback" : "Our house Bloody Marys are garnished with six items. They include: a peppercini, an onion, an olive, a lime, a celery stalk, and a piece of bacon."
+  },
+  {
+    "question" : "What is the correct garnish for the Brandied Cherry Manhattans?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/lime.jpg" },
+      {"id"  : 2, "image" : "images/cherry.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "Manhattans are typically served with a cherry. Ours are served with 3 brandied cherries."
+  },
+  {
+    "question" : "What is the correct garnish for a Captain Jack Sparrow?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/orange.jpg" },
+      {"id"  : 1, "image" : "images/lime.jpg" },
+      {"id"  : 2, "image" : "images/cherry.jpg" },
+      {"id"  : 3, "image" : "images/lemon.jpg" }
+    ],
+    "correct"  : 0
+  },
+  {
+    "question" : "What is the correct garnish for the Martinez?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 1,
+    "feedback" : "The Martinez is served with 3 brandied cherries."
+  },
+  {
+    "question" : "What is the correct garnish for a Pomegranate Mayahuel Margarita?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/cherry.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 2
+  },
+  {
+    "question" : "What is the correct garnish for a Mayahuel Mule?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/orange.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/cherry.jpg" }
+    ],
+    "correct"  : 3,
+    "feedback" : "The Mayahuel Mule is served with 3 brandied cherries."
+  },
+  {
+    "question" : "What is the correct garnish for a Mayahuel and Grapefruit soda mixed drink?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/orange.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/cherry.jpg" }
+    ],
+    "correct"  : 2
+  },
+  {
+    "question" : "What is the correct garnish for a Mayahuel Shot?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/pepper.jpg" },
+      {"id"  : 1, "image" : "images/orange.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/lemon.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "The Mayahuel Shot is served with a slice of a Fresno pepper."
+  },
+  {
+    "question" : "What is the correct garnish for a Mayahuel Mule?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/orange.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/cherry.jpg" }
+    ],
+    "correct"  : 3,
+    "feedback" : "The Mayahuel Mule is served with 3 brandied cherries."
+  },
+  {
+    "question" : "What is the correct garnish for a Skinny Bitch Cosmo?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/lime.jpg" },
+      {"id"  : 2, "image" : "images/cherry.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 1
+  },
+  {
+    "question" : "What is the correct garnish for a Raspberry Press?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/lime.jpg" },
+      {"id"  : 2, "image" : "images/cherry.jpg" },
+      {"id"  : 3, "image" : "images/orange.jpg" }
+    ],
+    "correct"  : 0
+  }
+
+
+/*
+  {
+    "question" : "We pour four beer sizes. Which one of these sizes does NOT belong?",
+    "answers"  : [
+      {"id"  : 0, "text" : "34oz"},
+      {"id"  : 1, "text" : "14oz"},
+      {"id"  : 2, "text" : "16oz"},
+      {"id"  : 3, "text" : "8oz"},
+      {"id"  : 4, "text" : "22oz"}
+    ],
+    "correct"  : 2
+  },
+ {
     "question" : "We pour four beer sizes. Which one of these sizes does NOT belong?",
     "answers"  : [
       {"id"  : 0, "text" : "34oz"},
@@ -118,6 +269,6 @@
       {"id"  : 3, "image" : "images/beer4.jpg" }
     ],
     "correct"  : 1
-  }
+  } */
 
   ]
