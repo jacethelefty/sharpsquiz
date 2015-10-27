@@ -1,5 +1,16 @@
   [
   {
+    "question" : "What is the correct garnish for the Rosemary Lemonade?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/apple.jpg" },
+      {"id"  : 2, "image" : "images/rosemary.jpg" },
+      {"id"  : 3, "image" : "images/lime.jpg" }
+    ],
+    "correct"  : 2,
+    "feedback" : "The Rosemary Lemonade is served with a Rosemary Sprig."
+  },
+  {
     "question" : "What is the correct garnish for a Mayahuel Mule?",
     "answers"  : [
       {"id"  : 0, "image" : "images/lemon.jpg" },
@@ -83,17 +94,6 @@
     ],
     "correct"  : 1,
     "feedback" : "The Martinez is served with 3 brandied cherries."
-  },
-  {
-    "question" : "What is the correct garnish for the Rosemary Lemonade?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/apple.jpg" },
-      {"id"  : 2, "image" : "images/rosemary.jpg" },
-      {"id"  : 3, "image" : "images/lime.jpg" }
-    ],
-    "correct"  : 2,
-    "feedback" : "The Rosemary Lemonade is served with a Rosemary Sprig."
   },
   {
     "question" : "All Rattle and Shake drinks are served with a paper covered straw?",
