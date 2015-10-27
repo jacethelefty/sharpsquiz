@@ -1,5 +1,16 @@
   [
   {
+    "question" : "What is the correct garnish for a Mayahuel Mule?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/orange.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/cherry.jpg" }
+    ],
+    "correct"  : 3,
+    "feedback" : "The Mayahuel Mule is served with 3 brandied cherries."
+  },
+  {
     "question" : "What is the incorrect garnish for a Peach Sangria Verano?",
     "answers"  : [
       {"id"  : 0, "image" : "images/fig.jpg" },
@@ -92,27 +103,6 @@
     "correct"  : 2
   },
   {
-    "question" : "What is the correct garnish for a Mayahuel Mule?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/orange.jpg" },
-      {"id"  : 2, "image" : "images/lime.jpg" },
-      {"id"  : 3, "image" : "images/cherry.jpg" }
-    ],
-    "correct"  : 3,
-    "feedback" : "The Mayahuel Mule is served with 3 brandied cherries."
-  },
-  {
-    "question" : "What is the correct garnish for a Mayahuel and Grapefruit soda mixed drink?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/orange.jpg" },
-      {"id"  : 2, "image" : "images/lime.jpg" },
-      {"id"  : 3, "image" : "images/cherry.jpg" }
-    ],
-    "correct"  : 2
-  },
-  {
     "question" : "What is the correct garnish for a Mayahuel Shot?",
     "answers"  : [
       {"id"  : 0, "image" : "images/pepper.jpg" },
@@ -122,17 +112,6 @@
     ],
     "correct"  : 0,
     "feedback" : "The Mayahuel Shot is served with a slice of a Fresno pepper."
-  },
-  {
-    "question" : "What is the correct garnish for a Mayahuel Mule?",
-    "answers"  : [
-      {"id"  : 0, "image" : "images/lemon.jpg" },
-      {"id"  : 1, "image" : "images/orange.jpg" },
-      {"id"  : 2, "image" : "images/lime.jpg" },
-      {"id"  : 3, "image" : "images/cherry.jpg" }
-    ],
-    "correct"  : 3,
-    "feedback" : "The Mayahuel Mule is served with 3 brandied cherries."
   },
   {
     "question" : "What is the correct garnish for a Skinny Bitch Cosmo?",
@@ -153,6 +132,16 @@
       {"id"  : 3, "image" : "images/orange.jpg" }
     ],
     "correct"  : 0
+  },
+  {
+    "question" : "What is the correct garnish for a Mayahuel and Grapefruit soda mixed drink?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/lemon.jpg" },
+      {"id"  : 1, "image" : "images/orange.jpg" },
+      {"id"  : 2, "image" : "images/lime.jpg" },
+      {"id"  : 3, "image" : "images/cherry.jpg" }
+    ],
+    "correct"  : 2
   }
 
   ]
