@@ -89,7 +89,7 @@
     "answers"  : [
       {"id"  : 0, "image" : "images/lemon.jpg" },
       {"id"  : 1, "image" : "images/apple.jpg" },
-      {"id"  : 2, "image" : "images/roesmary.jpg" },
+      {"id"  : 2, "image" : "images/rosemary.jpg" },
       {"id"  : 3, "image" : "images/lime.jpg" }
     ],
     "correct"  : 2,
