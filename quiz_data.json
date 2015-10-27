@@ -74,6 +74,14 @@
     "feedback" : "The Martinez is served with 3 brandied cherries."
   },
   {
+    "question" : "All Rattle and Shake drinks are served with a paper covered straw?",
+    "answers"  : [
+      {"id"  : 0, "text" : "True"},
+      {"id"  : 1, "text" : "False"}
+    ],
+    "correct"  : 0
+  },
+  {
     "question" : "What is the correct garnish for a Pomegranate Mayahuel Margarita?",
     "answers"  : [
       {"id"  : 0, "image" : "images/lemon.jpg" },
